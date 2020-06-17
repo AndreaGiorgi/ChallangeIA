@@ -1,4 +1,5 @@
-+ IA-RomaTre
+# IA-RomaTre
+
 Repository creato per contenere il codice relativo alle challenge del corso di Intelligenza Artificiale AA 2019/2020 dell'Università degli Studi Roma TRE.
 
 Le challenge presenti sono:
