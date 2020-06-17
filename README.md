@@ -4,4 +4,4 @@ Repository creato per contenere il codice relativo alle challenge del corso di I
 
 Le challenge presenti sono:
   1. Mushroom Dataset [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/mushroom)
-  2. Telco Customer Churn Dataset [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
+  2. Telco Customer Churn Dataset
